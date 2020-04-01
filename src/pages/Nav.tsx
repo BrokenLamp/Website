@@ -3,7 +3,7 @@ import styled, { AnyStyledComponent } from "styled-components";
 
 const Navone: AnyStyledComponent = styled.nav`
   background-color: #000;
-  height: 90px;
+  height: 100%;
   width: 100%;
   box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
 `;
